@@ -1,2 +1,2 @@
-# Reposit-rio-ACBr
+# Repositrio-ACBr
 Repositório para atividades ACBr
